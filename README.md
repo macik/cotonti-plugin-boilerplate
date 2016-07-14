@@ -1,0 +1,1 @@
+# cotonti-plugin-boilerplate
